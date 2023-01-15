@@ -1,0 +1,7 @@
+{
+  "name": "Wails Skeleton Template",
+  "shortname": "wails_skeleton_template",
+  "author": "alex_bits",
+  "description": "Wails template with the Skeleton UI framework, the TailwindCss framework and the the Pictogrammers material design icons framework included",
+  "helpurl": "https://github.com/AlexBitsTech/wails_skeleton_template"
+}
