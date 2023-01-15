@@ -11,18 +11,18 @@
   },
   "devDependencies": {
     "@skeletonlabs/skeleton": "^0.92.2",
-    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@sveltejs/vite-plugin-svelte": "^2.0.2",
     "@tsconfig/svelte": "^3.0.0",
-    "autoprefixer": "^10.4.7",
-    "postcss": "^8.4.14",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
     "postcss-load-config": "^4.0.1",
-    "svelte": "^3.49.0",
-    "svelte-check": "^2.8.0",
-    "svelte-preprocess": "^4.10.7",
-    "tailwindcss": "^3.1.5",
-    "tslib": "^2.4.0",
-    "typescript": "^4.6.4",
-    "vite": "^3.0.0"
+    "svelte": "^3.55.1",
+    "svelte-check": "^3.0.2",
+    "svelte-preprocess": "^5.0.0",
+    "tailwindcss": "^3.2.4",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.4"
   },
   "dependencies": {
     "@jamescoyle/svelte-icon": "^0.1.1",
